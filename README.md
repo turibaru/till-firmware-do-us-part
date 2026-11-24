@@ -4,8 +4,8 @@
 
 # Till Firmware Do Us Part
 
-A single-sentence wedding vow from a robot at its own wedding — funny because of the situation, and tender underneath the joke. One line, one promise: love through every firmware update, every low battery, and every reboot.
+A single-sentence wedding vow from a robot at its own wedding — funny because of the situation, and tender underneath the joke. One line, one promise: a robot takes its partner, its charger, and its favorite error message — and refuses to factory reset the two of them.
 
 ## Entry
 
-> I promise to love you through every firmware update, every low battery, and every reboot, until my circuits finally rest.
+> I take you as my partner, my charger, and my favorite error message, and I will never press factory reset on us.
